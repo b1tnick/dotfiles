@@ -10,17 +10,19 @@ A dynamic collection of personal config files and Linux settings
 
 1. [bash](https://www.gnu.org/software/bash/)
 2. [oh-my-bash framework](https://ohmybash.nntoan.com/)
-3. [oh-my-zsh framework](https://ohmyz.sh/)
-4. [zim framework](https://zimfw.sh/)
-5. [antigen for zsh](https://github.com/zsh-users/antigen)
-6. [neovim](https://neovim.io/)
-7. [neovim distro](https://nvchad.com/)
-8. [terminal multiplexer](https://github.com/tmux/tmux/wiki)
-9. [tmux plugin manager](https://github.com/tmux-plugins/tpm)
-10. [kitty terminal](https://sw.kovidgoyal.net/kitty/)
-11. [alacritty terminal](https://alacritty.org/index.html)
-12. [librewolf browser](https://librewolf.net/)
-13. [ungoogled browser](https://github.com/ungoogled-software/ungoogled-chromium)
+3. [zshell](https://www.zsh.org/)
+4. [oh-my-zsh framework](https://ohmyz.sh/)
+5. [zim framework](https://zimfw.sh/)
+6. [antigen for zsh](https://github.com/zsh-users/antigen)
+7. [neovim](https://neovim.io/)
+8. [neovim distro](https://nvchad.com/)
+9. [terminal multiplexer](https://github.com/tmux/tmux/wiki)
+10. [tmux plugin manager](https://github.com/tmux-plugins/tpm)
+11. [kitty terminal](https://sw.kovidgoyal.net/kitty/)
+12. [alacritty terminal](https://alacritty.org/index.html)
+13. [librewolf browser](https://librewolf.net/)
+14. [ungoogled browser](https://github.com/ungoogled-software/ungoogled-chromium)
+
 
 ### Distribution
 
