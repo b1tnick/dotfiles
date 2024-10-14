@@ -1,6 +1,6 @@
 ![](boliviainteligente-bv-frstOKKQ-unsplash.jpg)
 
-# DOTFILES
+# D O T F I L E S 
 
 A dynamic collection of personal config files and Linux settings
 
