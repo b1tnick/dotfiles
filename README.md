@@ -9,7 +9,7 @@ A collection of personal config files and Linux settings</p>
 
 ## Links
 
-==Kudos to all the authors==
+*Kudos to all the authors!*
 
 1. https://www.gnu.org/software/bash/
 2. https://ohmybash.nntoan.com/
