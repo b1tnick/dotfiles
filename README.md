@@ -1,9 +1,9 @@
 
-# <p style="text-align:center"><font color="blue">DOTFILES</p></font>
+# *DOTFILES*
 
 ---
 
-<p style="text-align:right">A collection of personal config files and Linux settings</p>
+A collection of personal config files and Linux settings</p>
 
 ## Distribution
 
@@ -39,7 +39,7 @@
 
 ## Text editor
 
-- Neovim
+- Neovim, NvChad
 
 ## File system
 
