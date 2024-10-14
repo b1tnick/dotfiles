@@ -1,8 +1,10 @@
+![](boliviainteligente-bv-frstOKKQ-unsplash.jpg)
+
 # DOTFILES
 
 A dynamic collection of personal config files and Linux settings
 
-![](boliviainteligente-bv-frstOKKQ-unsplash.jpg)
+
 
 ## Links
 
