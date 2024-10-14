@@ -4,8 +4,6 @@
 
 A dynamic collection of personal config files and Linux settings
 
-
-
 ## Links
 
 *Kudos to all the authors!*
