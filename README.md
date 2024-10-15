@@ -57,7 +57,7 @@ A dynamic collection of personal config files and Linux settings
 
 ### Text editor
 
-- Neovim, NvChad
+- Neovim, NvChad, VSCode
 
 ### File system
 
