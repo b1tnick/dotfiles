@@ -65,9 +65,9 @@ A dynamic collection of personal config files and Linux settings
 - Laptop: ext4
 
 > [!NOTE]
-> Tmux config and tpm go to `~/`
-> Kitty config go to `~/.config/kitty/`
-> Alacritty config go to `~/`
-> Bash and zsh, of course, be in `~/`
-> Their frameworks, as well
+> Tmux config and tpm go to `~/` <br>
+> Kitty config go to `~/.config/kitty/` <br>
+> Alacritty config go to `~/` <br>
+> Bash and zsh, of course, be in `~/` <br>
+> Their frameworks, as well <br>
 > Neovim config is in `~/.config/nvim`
